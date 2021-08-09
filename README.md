@@ -9,7 +9,7 @@ This program is designed to perform the feature selection for multi-label data s
 This software is a Matlab implementation of proposed method, highy specialized on problems of categorical data set classification. The original version of this program was written by Jaesung Lee.
 
 ### [Paper]
-Jaesung Lee and Dae-Won Kim, [Fast Multi-label Feature Selection based on Information-theoretic Feature Ranking](https://www.sciencedirect.com/science/article/pii/S0031320315001338),
+Jaesung Lee and Dae-Won Kim, ["Fast Multi-label Feature Selection based on Information-theoretic Feature Ranking,"](https://www.sciencedirect.com/science/article/pii/S0031320315001338)
 Pattern Recognition, 2015
 
 ## License
